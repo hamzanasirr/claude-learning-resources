@@ -66,7 +66,6 @@ Two formats — pick the one that suits you:
 
 | Format | Link | Best For |
 |---|---|---|
-| Google Sheets (no setup) | Via Claude for Sheets extension | Business professionals |
 | Jupyter Notebook | https://github.com/anthropics/prompt-eng-interactive-tutorial | Developers |
 
 **What's covered across 9 chapters:**
